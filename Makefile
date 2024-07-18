@@ -3,3 +3,6 @@ cf:
 
 read:
 	node read.mjs
+
+ol:
+	node oneline.mjs
