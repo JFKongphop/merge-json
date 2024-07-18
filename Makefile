@@ -6,3 +6,6 @@ read:
 
 ol:
 	node oneline.mjs
+
+nk:
+	node newkey.mjs
