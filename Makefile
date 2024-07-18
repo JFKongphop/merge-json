@@ -9,3 +9,6 @@ ol:
 
 nk:
 	node newkey.mjs
+
+dcb:
+	docker build -t newkey-app .
